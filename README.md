@@ -51,6 +51,7 @@ I focus on answering:
 data/            # Cleaned CSV datasets
 notebooks/       # Jupyter analysis
 report/          # Final PDF report
+src/             # Python scripts for data collection and merging  
 README.md        # Project documentation
 .gitignore       # Git exclusions
 requirements.txt # Required libraries
